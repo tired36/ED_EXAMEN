@@ -1,1 +1,1 @@
-comprobador de ontraseñas 
+comprobador de contraseñas 
